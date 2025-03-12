@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date:06.3.2025
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
@@ -36,9 +36,72 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
+```
+<html>
+<head><title>Document</title></head>
+
+</head>
+<body>
+    
+
+    <center> 
+        <center> <h2>top 5 company revenue generating software company </h2> </center>
+    <table border="1"  cellspacing="2" cellpadding="2">
+        <caption></caption>
+    <tr>
+        <td>s.no</td>
+        <td>Company Name </td>
+        <td>Revenue</td>
+    
+        
+    </tr>
+    
+    <tr>
+        <td>01</td>
+        <td>microsoft</td>
+        <td>$547.2 Billion</td>
+        
+    </tr>
+    <tr>
+        <td>02</td>
+        <td>Amazon</td>
+        <td>$659.9 billion</td>
+        
+    </tr>
+    <tr>
+        <td>03</td>
+        <td>google</td>
+        <td>$789.5 billion</td>
+    </tr>
+    <tr>
+        <td>04</td>
+        <td>walmart</td>
+        <td>$872.7 billion</td>
+
+    </tr>
+    <tr>
+        <td>05</td>
+        <td>IBM</td>
+        <td>$871.3 billion</td>
+    </tr>
+    
+    </center>
+            </table>
+     </form>
+</body>
+</html>
+</body>
+</html>
+
+```
 
 
 ## OUTPUT:
+
+![Screenshot 2025-03-06 224136](https://github.com/user-attachments/assets/138a29ee-c4c1-44a3-84a7-7941ce123b67)
+
+![Screenshot 2025-03-06 224417](https://github.com/user-attachments/assets/cf06e879-1b25-4b6c-a290-a995a0b38da3)
+
 
 
 ## RESULT:
