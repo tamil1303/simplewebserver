@@ -98,7 +98,8 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## OUTPUT:
 
-![Screenshot 2025-03-06 224136](https://github.com/user-attachments/assets/138a29ee-c4c1-44a3-84a7-7941ce123b67)
+![Screenshot 2025-03-12 161826](https://github.com/user-attachments/assets/063e7579-b2ae-4391-92a8-f80d8c305e74)
+
 
 ![Screenshot 2025-03-06 224417](https://github.com/user-attachments/assets/cf06e879-1b25-4b6c-a290-a995a0b38da3)
 
